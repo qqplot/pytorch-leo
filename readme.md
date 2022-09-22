@@ -2,8 +2,15 @@
 
 ## Running the code
 ### Prerequisites
-* torch==1.4.0
-* PyYAML==3.13
+
+```sh
+conda create --name leo python=3.8
+conda activate leo
+
+pip install torch==1.4.0
+pip install PyYAML==3.13
+pip install comet-ml
+```
 
 ### Getting the data
 We borrow the embedding from the [deepmind/leo repo](https://github.com/deepmind/leo)  
