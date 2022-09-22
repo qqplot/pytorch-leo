@@ -7,6 +7,5 @@ python main.py -train \
 		-embedding_dir ./embeddings/ \
 		-dataset miniImageNet \
 		-exp_name toy-0511 \
-		-save_checkpoint \
-		-no_cuda
+		-save_checkpoint
 		

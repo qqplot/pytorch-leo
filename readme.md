@@ -10,6 +10,7 @@ conda activate leo
 pip install torch==1.4.0
 pip install PyYAML==3.13
 pip install comet-ml
+pip install numpy
 ```
 
 ### Getting the data
