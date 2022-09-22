@@ -150,7 +150,9 @@ class Solver():
                                   auto_output_logging=None,
                                   auto_metric_logging=None,
                                   display_summary=False,
+                                  api_key="bsDT5xghOrCfdcOVryD4UJhFH",
                                   )
+
             self.exp.log_parameters(hyper_params)
             self.exp.add_tags(['%d way'%self._N, '%d shot'%self._K, self.data_utils.dataset])
 

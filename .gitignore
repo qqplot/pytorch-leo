@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+
+*.pdf
+
+__pycache__/
+
+*.ipynb
+
+.ipynb_checkpoints/
+test.py
+
+.idea/
+embeddings/

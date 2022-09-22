@@ -1,6 +1,6 @@
 Comet:
-  COMET_PROJECT_NAME:  
-  COMET_WORKSPACE: 
+  COMET_PROJECT_NAME: general
+  COMET_WORKSPACE: qqplot
 miniImageNet:
   1shot:
     data:
